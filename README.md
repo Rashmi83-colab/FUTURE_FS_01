@@ -1,13 +1,19 @@
 #Use of Digital Technology to calculate water footprints for different daily use items.​
 
 20221COM0149-Sushmitha N
+
 20221COM0161-LathaShree
+
 20221COm0184-Rashmi N
 
 Under the Supervision of,
+
 Mr.Mohamed Shakir
+
 Assistant Professor
+
 School of Computer Science and Engineering
+
 Presidency University  
 
 🌍 Digital Water Footprint Calculator
